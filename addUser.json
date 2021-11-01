@@ -1,0 +1,27 @@
+{
+    "User": {
+        "username": "dogecoin",
+        "password": "password1",
+        "email": "test@test.com",
+        "courses": {
+            "course": {
+                "classID": "CMSC2204",
+                "coursename": "mobile",
+                "startDate": "8/29/2021",
+                "endDate": "12/21/2021"
+            },
+            "course1": {
+                "classID": "CMSC2204",
+                "coursename": "mobile",
+                "startDate": "8/29/2021",
+                "endDate": "12/21/2021"
+            },
+            "course2": {
+                "classID": "CMSC2204",
+                "coursename": "mobile",
+                "startDate": "8/29/2021",
+                "endDate": "12/21/2021"
+            }
+        }
+    }
+}
